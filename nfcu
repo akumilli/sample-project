@@ -1,0 +1,5 @@
+However, connecting to Linux instances that run on AWS requires a bit more than just SSH client.
+ As you probably know, Linux EC2 instances have password authentication disabled by default to prevent 
+brute-force attacks and want you to supply your private key instead. But there is no such field in mRemoteNG configuratio
+n
+
